@@ -1,5 +1,10 @@
 # NoDrift
 
+[![Tests](https://img.shields.io/badge/tests-53%2F53-green)](./tests)
+[![Coverage](https://img.shields.io/badge/coverage-67%25-green)](./tests)
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org)
+[![License](https://img.shields.io/badge/license-MIT-black)](./LICENSE)
+
 Semantic versioning for LLM prompts.
 
 NoDrift helps teams detect **behavioral drift** between two versions of a prompt before shipping changes to production. Instead of comparing only text differences, it compares semantic meaning and estimates how much behavior may have changed.
