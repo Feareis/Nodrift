@@ -51,8 +51,8 @@ Overall drift: 51% — review before deploying
 
 ## Status
 
-- [ ] Core diff engine (embeddings + semantic scorer)
-- [ ] CLI with colored output
+- [x] Core diff engine (embeddings + semantic scorer)
+- [x] CLI with colored output
 - [ ] Golden test system
 - [ ] GitHub Action
 - [ ] HTML report
